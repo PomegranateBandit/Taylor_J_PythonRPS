@@ -10,7 +10,7 @@ while gameVars.player is False:
 	print ("========================================")
 	print("Choose your weapon!" "")
 	player=input ("choose rock, paper or scissors: \n")
-	copare.compareChoices(player):
+	compare.compareChoices(player)
 #start doing some logic and condition checking
 
 
